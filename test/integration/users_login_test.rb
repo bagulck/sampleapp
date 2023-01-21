@@ -1,9 +1,6 @@
 require "test_helper"
 
 class UsersLoginTest < ActionDispatch::IntegrationTest
-  require "test_helper"
-
-  class UsersLoginTest < ActionDispatch::IntegrationTest
     test "Log in with invalid information" do
       get login_path
       assert_template 'sessions/new'
@@ -13,7 +10,6 @@ class UsersLoginTest < ActionDispatch::IntegrationTest
       get root_path
       assert flash.empty?
     end
-  end
   end
   #blank break line
 
