@@ -52,3 +52,4 @@ end
 # on a native Windows system:
 # gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "importmap-rails", "~> 1.1"
+gem 'yaml'
