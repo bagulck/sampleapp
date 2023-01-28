@@ -4,8 +4,10 @@ require("turbolinks").start()
 require("@rails/activestorage").start()
 require("channels")
 require("jquery")
+import {} from 'jquery-ujs'
 //= require jquery3
 //= require jquery_ujs
+//= require rails-ujs
 //= require_tree
 //= require bootstrap.min
 //= require turbolinks
