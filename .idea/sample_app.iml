@@ -25,6 +25,15 @@
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
       <excludeFolder url="file://$MODULE_DIR$/public/system" />
       <excludeFolder url="file://$MODULE_DIR$/components" />
+      <excludeFolder url="file://$MODULE_DIR$/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/public/packs-test" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/8d" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/d7" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/jz" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/kx" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/sz" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/dq" />
+      <excludeFolder url="file://$MODULE_DIR$/storage/tp" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
